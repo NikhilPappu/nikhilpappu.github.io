@@ -11,11 +11,11 @@ author_profile: true
 <b><font size="+1">Perfectly-Secure Asynchronous MPC for General Adversaries (Extended Abstract)</font></b>
 <br>
 <font size="+0">
-In International Conference on Cryptology in India (INDOCRYPT), 2020
+<i>In International Conference on Cryptology in India (INDOCRYPT), 2020</i>
 </font>
 <br>
 <font size="+0">
-<i>Ashish Choudhury, Nikhil Pappu</i>
+Ashish Choudhury, Nikhil Pappu
 </font>
 <br>
 <font size="+0">

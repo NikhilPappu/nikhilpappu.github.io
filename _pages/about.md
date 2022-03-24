@@ -22,4 +22,5 @@ During my senior year there, I studied secure multiparty computation
 and byzantine consensus. I wrote my thesis titled <i> Perfectly-Secure
 Asynchronous Multiparty Computation for General Adversaries</i> under
 the supervision of Prof. <a href = "https://sites.google.com/view/ashish-choudhury">Ashish Choudhury</a>.
-
+<br><br>
+You can reach me at <i>nikpappu</i> <i>"at"</i> <i>pdx</i> <i>"dot"</i> <i>edu</i>.
