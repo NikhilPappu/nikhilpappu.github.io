@@ -11,7 +11,7 @@ title                    : "Nikhil Pappu"
 title_separator          : "-"
 name                     : &name "Nikhil Pappu"
 description              : &description "Computer Science PhD Student"
-url                      : https://nikhilpappu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://nikhilpappu.info/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NikhilPappu/nikhilpappu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Pappu"
-  avatar           : "profile2.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Computer Science PhD Student"
   location         : "Portland, OR"
   employer         :
