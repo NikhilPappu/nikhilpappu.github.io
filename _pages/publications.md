@@ -5,12 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ol>
+<li>
+<p>
+<b><font size="+1">Perfectly-Secure Asynchronous MPC for General Adversaries (Extended Abstract)</font></b>
+<br>
+<font size="+0">
+In International Conference on Cryptology in India (INDOCRYPT), 2020
+</font>
+<br>
+<font size="+0">
+<i>Ashish Choudhury, Nikhil Pappu</i>
+</font>
+<br>
+<font size="+0">
+<a
+href="https://link.springer.com/chapter/10.1007%2F978-3-030-65277-7_35">
+Springer</a>
+<a href="/paper_1.pdf" download="paper_1.pdf"  target="_blank"> <span class
+= "socialelm">Paper</span></a>
+</font>
+</p>
+</li>
+</ol>

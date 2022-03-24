@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<ol>
+<li>
+<p>
+<font size="+1">Perfectly-Secure Asynchronous MPC for General Adversaries (Extended Abstract)</font>
+<br>
+Ashish Choudhury, Nikhil Pappu
+<br>
+In International Conference on Cryptology in India (INDOCRYPT), 2020
+<br>
+<a
+href="https://link.springer.com/chapter/10.1007%2F978-3-030-65277-7_35">
+Springer</a>
+<a href="/paper_1.pdf" download="paper_1.pdf"  target="_blank"> <span class
+= "socialelm">Paper</span></a>
+</p>
+</li>
+</ol>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+
