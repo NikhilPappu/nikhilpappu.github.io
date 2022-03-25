@@ -3,6 +3,7 @@ layout: archive
 title: "Activities"
 permalink: /activities/
 author_profile: true
+
 ---
 
 <h2>Presentations</h2>

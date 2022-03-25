@@ -325,3 +325,19 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.album
+{
+
+    position: relative;
+    padding-bottom: 30px;
+
+}
+
+.albumcontent
+{
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+
