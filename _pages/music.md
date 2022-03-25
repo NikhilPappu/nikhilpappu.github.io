@@ -7,7 +7,6 @@ modified:
 author_profile: true
 comments: true
 image:
-
 music:
 
 - name: New Levels New Devils

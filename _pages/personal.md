@@ -35,5 +35,5 @@ history, politics, magic systems, etc. There are few who can craft one as well a
 <h3>Music</h3>
 <p>I used to listen to retro progressive rock back in the day.
 These days, I mostly listen to modern instrumental math rock.
-A list of some of my favorite instrumental albums can be found <a href="/personal/music/">here</a>.
+A list of some of my favorite instrumental albums can be found <a href="http://www.progarchives.com/Collaborators.asp?id=73264&listreviews=rate&showall=true#reviews">here</a>.
 
