@@ -28,7 +28,7 @@ I enjoy strategy RPGs and retro-themed games. Among my favorites are Advance War
 <h3>Fiction</h3>
 
 <p>Nothing captures my imagination like a fantasy world with its own
-history, politics, magic systems, etc. There are few who can craft one as well as Brandon Sanderson.
+history, politics, magic systems, etc. In my opinion, there are few who could pull one off as well as Brandon Sanderson.
 </p>
 
 
