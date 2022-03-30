@@ -11,11 +11,12 @@ redirect_from:
 <h1>About</h1>
 <p>
 I am a first year computer science PhD student at Portland State
-University. I am interested in the areas of cryptography, complexity
-theory, quantum computing, and more broadly in theoretical computer
-science. Currently, my research focuses on analyzing the security of
-classical cryptographic constructions in the presence of quantum
-adversaries.<br> <br>
+University, where I am advised by Prof. <a href =
+"https://fangsong.info/">Fang Song</a>. I am interested in the areas
+of cryptography, complexity theory, quantum computing, and more
+broadly in theoretical computer science. Currently, my research
+focuses on analyzing the security of classical cryptographic
+constructions in the presence of quantum adversaries.<br> <br>
 
 Previously, I was a computer science undergraduate at IIIT Bangalore.
 During my senior year there, I studied secure multiparty computation
