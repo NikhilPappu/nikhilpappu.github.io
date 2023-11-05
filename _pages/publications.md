@@ -8,6 +8,22 @@ author_profile: true
 <ol>
 <li>
 <p>
+<b><font size="+1">Notions of Quantum Reductions and the
+Impossibility of Statistical NIZK</font></b>
+<br>
+<font size="+0">
+<i>Manuscript</i>
+</font>
+<br>
+<font size="+0">
+Chuhan Lu, Nikhil Pappu
+</font>
+<br>
+</p>
+</li>
+
+<li>
+<p>
 <b><font size="+1">Perfectly-Secure Asynchronous MPC for General Adversaries (Extended Abstract)</font></b>
 <br>
 <font size="+0">
