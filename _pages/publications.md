@@ -8,17 +8,56 @@ author_profile: true
 <ol>
 <li>
 <p>
-<b><font size="+1">Notions of Quantum Reductions and the
-Impossibility of Statistical NIZK</font></b>
+<b><font size="+1">Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption</font></b>
 <br>
 <font size="+0">
-<i>Manuscript</i>
+<i>In Submission</i>
+</font>
+<br>
+<font size="+0">
+Fuyuki Kitagawa, Ryo Nishimaki, Nikhil Pappu
+</font>
+<br>
+</p>
+</li>
+
+
+<li>
+<p>
+<b><font size="+1">PKE and ABE with Collusion-Resistant Secure Key Leasing</font></b>
+<br>
+<font size="+0">
+<i>Crypto 2025</i>
+</font>
+<br>
+<font size="+0">
+Fuyuki Kitagawa, Ryo Nishimaki, Nikhil Pappu
+</font>
+<br>
+<font size="+0">
+<a
+href="https://eprint.iacr.org/2025/262"> ePrint</a>
+</font>
+</p>
+</li>
+
+
+<li>
+<p>
+<b><font size="+1">Notions of Quantum Reductions and Impossibility of Statistical NIZK</font></b>
+<br>
+<font size="+0">
+<i>Preprint</i>
 </font>
 <br>
 <font size="+0">
 Chuhan Lu, Nikhil Pappu
 </font>
 <br>
+<font size="+0">
+<a
+href="https://eprint.iacr.org/2024/1847"> ePrint</a>
+</font>
 </p>
 </li>
 

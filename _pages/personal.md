@@ -6,34 +6,26 @@ author_profile: true
 
 ---
 
-
-<p>Here's some things I fancy:</p>
+<p>Some things I fancy:</p>
 
 <h3>Chess</h3>
 <p>
-I play Blitz Chess online on Lichess. Most of my games open with the Queen's Gambit or the Caro-Kann
-defence. If memorizing openings isn't your thing, I'd recommend checking out Chess960.
+I play Blitz Chess online on <a
+href="https://lichess.org/@/nickpappu">Lichess</a>. My games usually
+begin with the Queen's Gambit, or the Caro-Kann defence. If memorizing
+openings isn't your thing, I'd recommend checking out Chess960.
 </p>
 
-<h3>Guitar</h3>
+<h3>Music</h3>
 
-My guitar covers can be found <a href="/personal/guitar/">here</a>.
-
-<h3>Games</h3>
-
-<p>
-I enjoy strategy RPGs and retro-themed games. Among my favorites are Advance Wars, Castlevania, and Shovel Knight.
-</p>
+I typically listen to progressive rock and guitar-based instrumental
+music. A list of some of my favorite albums can be found
+<a href="http://www.progarchives.com/Collaborators.asp?id=73264&listreviews=rate&showall=true#reviews">here</a>.
 
 <h3>Fiction</h3>
 
-<p>Nothing captures my imagination like a fantasy world with its own
-history, politics, magic systems, etc. In my opinion, there are few who could pull one off as well as Brandon Sanderson.
+<p>
+I enjoy reading fantasy epics by Brandon Sanderson. I'm also a fan of
+video games in the strategy RPG and Metroid-vania genres.
 </p>
-
-
-<h3>Music</h3>
-<p>I used to listen to retro progressive rock back in the day.
-These days, I mostly listen to modern instrumental math rock.
-A list of some of my favorite instrumental albums can be found <a href="http://www.progarchives.com/Collaborators.asp?id=73264&listreviews=rate&showall=true#reviews">here</a>.
 
