@@ -27,7 +27,7 @@ Fuyuki Kitagawa, Ryo Nishimaki, Nikhil Pappu
 <b><font size="+1">PKE and ABE with Collusion-Resistant Secure Key Leasing</font></b>
 <br>
 <font size="+0">
-<i>Crypto 2025</i>
+<i>Crypto 2025, TQC 2025</i>
 </font>
 <br>
 <font size="+0">
@@ -38,6 +38,8 @@ Fuyuki Kitagawa, Ryo Nishimaki, Nikhil Pappu
 <a
 href="https://eprint.iacr.org/2025/262"> ePrint</a>
 </font>
+<a href="/tqc_slides.pdf" download="slides_1.pdf"  target="_blank"> <span class
+= "socialelm">Slides</span></a>
 </p>
 </li>
 
