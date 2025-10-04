@@ -19,8 +19,8 @@ openings isn't your thing, I'd recommend checking out Chess960.
 <h3>Music</h3>
 
 I typically listen to progressive rock and guitar-based instrumental
-music. A list of some of my favorite albums can be found
-<a href="http://www.progarchives.com/Collaborators.asp?id=73264&listreviews=rate&showall=true#reviews">here</a>.
+music. A list of some of my favorite albums can be found on my
+<a href="http://www.progarchives.com/Collaborators.asp?id=73264&listreviews=rate&showall=true#reviews">Progarchives</a> profile.
 
 <h3>Fiction</h3>
 
