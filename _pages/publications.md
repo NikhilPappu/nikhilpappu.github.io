@@ -11,7 +11,7 @@ author_profile: true
 <b><font size="+1">Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption</font></b>
 <br>
 <font size="+0">
-<i>In Submission</i>
+<i>Manuscript</i>
 </font>
 <br>
 <font size="+0">
