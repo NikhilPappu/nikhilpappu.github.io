@@ -11,13 +11,17 @@ author_profile: true
 <b><font size="+1">Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption</font></b>
 <br>
 <font size="+0">
-<i>Manuscript</i>
+<i>Preprint</i>
 </font>
 <br>
 <font size="+0">
 Fuyuki Kitagawa, Ryo Nishimaki, Nikhil Pappu
 </font>
 <br>
+<font size="+0">
+<a
+href="https://arxiv.org/abs/2510.04754">arXiv</a>
+</font>
 </p>
 </li>
 
