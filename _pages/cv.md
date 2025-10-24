@@ -10,3 +10,6 @@ redirect_from:
 <a href="/cv_nikhil.pdf" download="cv_nikhil.pdf" class="author-social"
 	target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> <span class = "socialelm">cv_nikhil.pdf</span></a>
 
+<a href="/research_statement_nikhil.pdf" download="research_statement_nikhil.pdf" class="author-social"
+	target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> <span class = "socialelm">research_statement_nikhil.pdf</span></a>
+
