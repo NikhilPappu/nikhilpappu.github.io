@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <ol>
+
 <li>
 <p>
 <b><font size="+1">Certified-Everlasting Quantum NIZK Proofs</font></b>
@@ -25,8 +26,6 @@ href="https://arxiv.org/abs/2512.13628">arXiv</a>
 </p>
 </li>
 
-
-<ol>
 <li>
 <p>
 <b><font size="+1">Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption</font></b>
