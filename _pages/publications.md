@@ -8,6 +8,27 @@ author_profile: true
 <ol>
 <li>
 <p>
+<b><font size="+1">Certified-Everlasting Quantum NIZK Proofs</font></b>
+<br>
+<font size="+0">
+<i>Preprint</i>
+</font>
+<br>
+<font size="+0">
+Nikhil Pappu
+</font>
+<br>
+<font size="+0">
+<a
+href="https://arxiv.org/abs/2512.13628">arXiv</a>
+</font>
+</p>
+</li>
+
+
+<ol>
+<li>
+<p>
 <b><font size="+1">Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption</font></b>
 <br>
 <font size="+0">
