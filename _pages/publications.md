@@ -12,7 +12,7 @@ author_profile: true
 <b><font size="+1">Certified-Everlasting Quantum NIZK Proofs</font></b>
 <br>
 <font size="+0">
-<i>Eurocrypt 2026</i>
+<i>Preprint</i>
 </font>
 <br>
 <font size="+0">
@@ -31,7 +31,7 @@ href="https://arxiv.org/abs/2512.13628">arXiv</a>
 <b><font size="+1">Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption</font></b>
 <br>
 <font size="+0">
-<i>Preprint</i>
+<i>Eurocrypt 2026</i>
 </font>
 <br>
 <font size="+0">
